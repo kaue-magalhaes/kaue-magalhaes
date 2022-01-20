@@ -5,7 +5,7 @@ Bem-vindo ao Perfil do Kauê
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kkkaue&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkaue&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
- 
+
 <div><br>
   
   <div>
