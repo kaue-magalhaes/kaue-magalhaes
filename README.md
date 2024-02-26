@@ -19,4 +19,4 @@ Passionate software developer 🚀 with a love for challenges and a relentless d
 
 ### 🔗 Get in Touch
 
-- [LinkedIn]([link](https://www.linkedin.com/in/kau%C3%AA-de-magalh%C3%A3es-brand%C3%A3o-6042bb202/)https://www.linkedin.com/in/kau%C3%AA-de-magalh%C3%A3es-brand%C3%A3o-6042bb202/): Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/kau%C3%AA-de-magalh%C3%A3es-brand%C3%A3o-6042bb202/): Let's connect!
