@@ -18,4 +18,4 @@ Passionate software developer 🚀 dedicated to turning ideas into reality throu
 
 ### 🔗 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/kau%C3%AA-de-magalh%C3%A3es-brand%C3%A3o-6042bb202/): Let's connect and collaborate on exciting projects together!
+- [LinkedIn](https://www.linkedin.com/in/kaue-de-magalhaes/): Let's connect and collaborate on exciting projects together!
